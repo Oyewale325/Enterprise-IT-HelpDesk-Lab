@@ -296,6 +296,8 @@ Areas of Interest:
 - IT Support
 - System Administration
 - Data Analysis
+- Database Administration
 - Networking
 - Microsoft Technologies
 - PowerShell Automation
+
